@@ -5,6 +5,13 @@ module.exports = {
   ],
   theme: {
     extend: {},
+    fontFamily: {
+
+      "Poppins": ["Poppins", "sans-serif"],
+
+      Saira: ["Saira", "sans-serif"],
+
+    },
   },
   plugins: [],
 };
