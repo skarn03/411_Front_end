@@ -1,18 +1,18 @@
 .App {
   text-align: center;
 }
-
+/* This is a single-line comment */
 .App-logo {
   height: 40vmin;
   pointer-events: none;
 }
-
+/* This is a single-line comment */
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
     animation: App-logo-spin infinite 20s linear;
   }
 }
-
+/* This is a single-line comment */
 .App-header {
   background-color: #282c34;
   min-height: 100vh;
@@ -27,7 +27,7 @@
 .App-link {
   color: #61dafb;
 }
-
+/* This is a single-line comment */
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
